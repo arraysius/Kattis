@@ -1,2 +1,2 @@
-# kattis
+# Kattis
 My Kattis problem solutions
